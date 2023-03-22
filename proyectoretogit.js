@@ -1,3 +1,5 @@
+function suma (x, y, z){
+    console.log(x + y + z)} 
 
 function resta (x, y){
     console.log(x - y)} 
