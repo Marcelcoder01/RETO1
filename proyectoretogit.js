@@ -1,5 +1,3 @@
-function suma (x, y){
-    console.log(x + y)} 
 
 function resta (x, y){
     console.log(x - y)} 
